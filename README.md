@@ -16,7 +16,7 @@ Se aplicó un protocolo de mantenimiento senior dividido en tres fases:
 - **Antes:** Sitio inaccesible (Error 500 / Pantalla blanca).
 - **Después:** Plataforma 100% operativa, segura y con una base de datos compacta.
 
-## Descarga PDF
+## 📥 Descarga PDF
 > **Descarga el [Informe Técnico Completo Aquí](./Caso_Estudio_Peumayen_Final.pdf)** con el detalle de la intervención.
 
 ---  
